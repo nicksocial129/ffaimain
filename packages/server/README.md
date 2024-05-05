@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD030 -->
 
-# Flowise - Low-Code LLM apps builder
+# Forgeflow AI - Custom AI Chatbot Solutions
 
 English | [中文](./README-ZH.md)
 
